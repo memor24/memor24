@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-# About
+# Hi👋 I'm Mehdi
 
-Hi there! I do DevOps and Cyber Security for fun.
+I do DevOps and Cyber Security for fun.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
 
