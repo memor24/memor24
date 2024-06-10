@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-I do cybersecurity and DevOps for fun.
+I do DevOps for fun.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
 
@@ -11,3 +11,4 @@ I do cybersecurity and DevOps for fun.
 - Linux
 - Terraform, Python, Git
 - Kubernetes
+- Cyber Security
