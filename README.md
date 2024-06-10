@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-# Hi👋 I'm Mehdi
+# Hi, I'm Mehdi 👋
 
 I do DevOps and Cyber Security for fun.
 
