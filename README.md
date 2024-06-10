@@ -4,11 +4,11 @@
 
 I do DevOps for fun.
 
-![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
-
 ## 🛠 Skills
 
 - Linux
 - Terraform, Python, Git
 - Kubernetes
 - Cyber Security
+
+![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
