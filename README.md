@@ -1,11 +1,12 @@
-About
+# About
 
-DevOps, Cyber Security
+Hi there! I do DevOps and Cyber Security for fun.
 
-profile views counter
+![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
 
-Tech stack
+## Tech Stack
 
-Linux
-Terraform, Python
-Kubernetes
+- Linux
+- Terraform
+- Python
+- Kubernetes
