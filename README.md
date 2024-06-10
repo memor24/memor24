@@ -9,5 +9,5 @@ Hi there! I do DevOps and Cyber Security for fun.
 ## Tech Stack
 
 - Linux <i class="fab fa-linux"></i>
-- Terraform <i class="fas fa-cogs"></i> Python <i class="fab fa-python"></i> 
+- Terraform <i class="fas fa-cogs"></i>, Python <i class="fab fa-python"></i> 
 - Kubernetes <i class="fab fa-kubernetes"></i>
