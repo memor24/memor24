@@ -9,6 +9,6 @@ I do DevOps for fun.
 - Linux
 - Terraform, Python, Git
 - Kubernetes
-- Cyber Security best practices
+- Cyber security best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
