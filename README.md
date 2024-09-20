@@ -7,8 +7,8 @@ I do DevOps for fun.
 ## 🛠 Skills
 
 - Linux, Bash, Ansible
-- Git, Python, PostgreSQL
-- Terraform, Kubernetes, Helm, Kustomize, GitOps
+- Git, Python, PostgreSQL, TypeScript
+- Terraform, Kubernetes, Helm, GitOps
 - Cyber security best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
