@@ -7,7 +7,7 @@ I do DevOps for fun.
 ## 🛠 Skills
 
 - Linux, Bash, Ansible, Terraform
-- Git, Python, API, SQL, JavaScript
+- Git, Python, SQL, API, JavaScript
 - Docker, Kubernetes, Helm, GitOps
 - Cyber security best practices
 
