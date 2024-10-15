@@ -2,7 +2,8 @@
 
 # Hi, I'm Mehdi 👋
 
-I do DevOps for fun.
+DevOps engineer in Canada. Feel free to use my code, it's unlicensed.
+Life is the blink of an eye; leave positive impacts... 
 
 ## 🛠 Skills
 
