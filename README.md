@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-DevOps engineer in Canada. Goal oriented get things doner. Feel free to use my code, it's unlicensed.
+DevOps engineer in Canada. Goal oriented get things doner. Feel free to contribute or use the codes, it's unlicensed.
 
 
 ## 🛠 Skills
