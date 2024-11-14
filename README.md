@@ -8,7 +8,7 @@ Passionate DevOps engineer in 🇨🇦. Goal oriented get things doner.
 
 - Linux, Ansible, Terraform, Bash
 - Git, Python, SQL, API, JavaScript
-- Docker, Kubernetes, Helm, GitOps
+- Docker, Kubernetes, Helm, Monitoring, GitOps
 - Cyber security best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
