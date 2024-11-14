@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-DevOps engineer in Canada. Goal oriented get things doner.
+Passionate DevOps engineer in 🇨🇦. Goal oriented get things doner.
 
 ## 🛠 Skills
 
