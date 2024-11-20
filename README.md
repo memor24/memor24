@@ -7,7 +7,7 @@ Passionate DevOps engineer in 🇨🇦. Goal oriented get things doner.
 ## 🛠 Skills
 
 - Linux, Ansible, Terraform, Bash
-- Git, Python, SQL, API, JavaScript
+- Git, HTML, CSS, JavaScript, API, SQL, Python
 - Docker, Kubernetes, Helm, GitOps
 - Monitoring, Prometheus, Grafana, Zabbix
 - Cyber security best practices
