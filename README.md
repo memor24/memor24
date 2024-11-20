@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-Passionate DevOps engineer in 🇨🇦. Goal oriented get things doner.
+Passionate DevOps engineer in 🇨🇦. Also interested in security and web3 development. 
 
 ## 🛠 Skills
 
