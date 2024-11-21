@@ -6,10 +6,9 @@ Passionate DevOps engineer in 🇨🇦. Also interested in web3 development.
 
 ## 🛠 Skills
 
-- Infrastructure: Linux, Ansible, Terraform, Bash, AWS
-- Programming: Git, HTML, CSS, JavaScript, API, SQL, Python
-- Containers: Docker, Kubernetes, Helm, GitOps
-- Monitoring: Prometheus, Grafana, Zabbix
-- Security: Cybersecurity best practices
+- Infrastructure: Linux, Ansible, Terraform, AWS
+- Containers: Docker, Kubernetes, Monitoring
+- Programming: Git, Python, API, SQL
+- Security: Best practices in network/cloud/data/app security
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
