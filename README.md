@@ -8,7 +8,7 @@ Passionate DevOps engineer in 🇨🇦.
 
 - Infrastructure: Linux, Ansible, Terraform, AWS
 - Containers: Docker, Kubernetes, Monitoring
-- Programming: Git, JavaScript, API, SQL, Python
+- Programming: Git, Python, API, SQL
 - Security: Best practices in network/cloud/data/app security
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
