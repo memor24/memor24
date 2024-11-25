@@ -6,7 +6,7 @@ Passionate DevOps engineer in 🇨🇦. Also interested in web3 development.
 
 ## 🛠 Skills
 
-- Infrastructure: Linux, Ansible, Terraform, AWS
+- Infrastructure: Linux, Ansible, Terraform, Automations
 - Containers: Docker, Kubernetes, Monitoring
 - Programming: Git, Python, API, SQL, JavaScript
 - Security: Best practices in network/cloud/data/app security
