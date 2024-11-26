@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-Passionate DevOps engineer in 🇨🇦. Also interested in web3 development.
+Passionate DevOps engineer, who is also interested in web3 development.
 
 ## 🛠 Skills
 
