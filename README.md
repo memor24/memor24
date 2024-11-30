@@ -7,7 +7,7 @@ Passionate DevOps engineer, who is also interested in web3 development.
 ## 🛠 Skills
 
 - Automations: Git, Bash, Terraform, Ansible, Packer, CICD, GitOps, Monitoring
-- Infrastructure: Linux, Docker, Kubernetes, AWS, Python, API, PostgreSQL
+- Infrastructure: Linux, Docker, Kubernetes, AWS, Python, PostgreSQL
 - Programming: Node.js, JavaScript, Solidity
 - Security: Best practices in cybersecurity
 
