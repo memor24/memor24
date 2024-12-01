@@ -6,9 +6,9 @@ Passionate DevOps engineer, who is also interested in web3 development.
 
 ## 🛠 Skills
 
-- Automations: Git, Bash, Terraform, Ansible, Packer, CICD, GitOps, Monitoring
-- Infrastructure: Linux, Docker, Kubernetes, AWS, Python, PostgreSQL
-- Programming: Node.js, JavaScript, Solidity
-- Security: Best practices in cybersecurity
+- Automations: Git, Terraform, Ansible, Bash, Packer, CICD, Python, Monitoring
+- Infrastructure: Linux, Docker, Kubernetes, GitOps
+- Programming: PostgreSQL, JavaScript, Solidity
+- Security: Best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
