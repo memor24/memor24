@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-Passionate DevOps engineer, who is also interested in [CS topics](https://roadmap.sh/computer-science)
+Passionate DevOps engineer, who is also interested in CS topics.
 
 ## 🛠 Skills
 
