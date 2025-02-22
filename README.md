@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-Passionate DevOps engineer, who is also interested in CS topics.
+Passionate DevOps engineer, who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 
