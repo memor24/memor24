@@ -6,8 +6,8 @@ Passionate DevOps engineer, who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 
-- **Automation:** Git, Terraform, Bash, Ansible, CICD, GitOps, Python
-- **Infrastructure:** Kubernetes, Docker, Linux, Packer, AWS, CloudWatch
+- **Automation:** Git, Terraform, Bash, Ansible, CICD, GitOps, ArgoProject, Python
+- **Infrastructure:** Kubernetes, Docker, Linux, Packer, AWS, CloudWatch 
 - **DataOps:** ELK, Fluentd, Prometheus, Grafana, SQL Server, AzureML 
 - **Security:** Best practices
 
