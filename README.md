@@ -7,8 +7,9 @@ Passionate DevOps engineer, who likes to dig deep and optimize systems.
 ## 🛠 Skills
 
 - **Automation:** Git, Terraform, Bash, Ansible, CICD, GitOps, ArgoProject, Python
-- **Infrastructure:** Kubernetes, Docker, Linux, Packer, AWS 
-- **DataOps:** ELK, Prometheus, Grafana, MongoDB, SQL Server, AzureML 
+- **Infrastructure:** Kubernetes, Docker, Linux, Packer, AWS, MaaS
+- **DataOps:** ELK, Prometheus, Grafana, PostgreSQL, AzureML
+- **Programming:** Go, Redis, MongoDB
 - **Security:** Best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
