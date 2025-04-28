@@ -8,8 +8,8 @@ Passionate software reliability engineer who likes to dig deep and optimize syst
 
 - **Automation:** Git, Terraform, Bash, Ansible, CICD, GitOps, Python
 - **Infrastructure:** Kubernetes, Docker, Linux, AWS, MaaS
-- **Data:** ELK, Prometheus, Grafana, PostgreSQL, AzureML
-- **Programming:** Go, Redis, MongoDB
+- **Data:** ELK, Prometheus, Grafana, PostgreSQL, MinIO, AzureML
+- **Programming:** Python, Redis, MongoDB
 - **Security:** Best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
