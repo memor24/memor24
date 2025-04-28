@@ -8,7 +8,7 @@ Passionate software reliability engineer who likes to dig deep and optimize syst
 
 - **Automation:** Git, Terraform, Bash, Ansible, CICD, GitOps, Python
 - **Infrastructure:** Kubernetes, Docker, Linux, AWS, MaaS
-- **Data:** ELK, Prometheus, Grafana, PostgreSQL, MinIO, AzureML
+- **Data:** ELK, Prometheus, Grafana, SQL, MinIO, AzureML
 - **Programming:** Python, Redis, MongoDB
 - **Security:** Best practices
 
