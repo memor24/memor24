@@ -2,7 +2,7 @@
 
 # Hi, I'm Mehdi 👋
 
-Passionate DevOps engineer, who likes to dig deep and optimize systems.
+Passionate software reliability engineer who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 
