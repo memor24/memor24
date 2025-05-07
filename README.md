@@ -2,14 +2,14 @@
 
 # Hi, I'm Mehdi 👋
 
-Passionate software reliability engineer who likes to dig deep and optimize systems.
+Passionate software QA engineer who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 
-- **Automation:** Git, Terraform, Bash, Ansible, CICD, GitOps, Python
-- **Infrastructure:** Kubernetes, Docker, Linux, AWS, MaaS
-- **Data:** ELK, Prometheus, Grafana, SQL, MinIO, AzureML
-- **Programming:** Python, Redis, MongoDB
+- **Testing:** Software QA, Systematic Testing, Postman API, Cypress, TDD, BDD 
+- **Coding:** Git, Python, Terraform, Bash, Ansible
+- **Infrastructure:** Kubernetes, GitOps, Docker, Linux, CICD, AWS, MaaS
+- **Data:** Grafana, Loki, SQL, MinIO, AzureML, Redis, MongoDB
 - **Security:** Best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
