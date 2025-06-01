@@ -5,8 +5,8 @@
 Passionate software QA engineer who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
-Here is a list of systems and technologies I have worked with or self-studied:
-- **Testing:** QA Automation, Manual Testing, Postman API, TDD, BDD, Selenium 
+Here is a list of systems and technologies I have worked with:
+- **Testing:** QA Automation, Manual Testing, Postman API, Selenium 
 - **Coding:** Git, Python, SQL, Terraform, Ansible, Bash
 - **Infrastructure:** Linux, CICD, Docker, Kubernetes, GitOps, Grafana, AWS
 - **Security:** Best practices
