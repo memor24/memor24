@@ -6,9 +6,9 @@ Passionate software QA engineer who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 Here is a list of systems and technologies I have worked with:
-- **Testing:** QA Automation, Manual Testing, Postman API, Selenium 
-- **Coding:** Git, Python, SQL, Terraform, Ansible, Bash
-- **Infrastructure:** Linux, CICD, Docker, Kubernetes, GitOps, Grafana, AWS
+- **Testing:** QA Automation, Manual Testing, Postman API, Selenium, Grafana
+- **Coding:** Git, Python, SQL, Bash, Ansible, CICD
+- **Infrastructure:** Linux, Docker, Kubernetes, GitOps, AWS, Terraform
 - **Security:** Best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
