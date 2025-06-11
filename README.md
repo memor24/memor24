@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-# Hi, I'm Mehdi 👋
+# Welcome 👋
 
-Passionate software QA engineer who likes to dig deep and optimize systems.
+I am a passionate software QA engineer who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 Here is a list of systems and technologies I have worked with:
