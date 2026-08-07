@@ -2,13 +2,12 @@
 
 # Welcome 👋
 
-I am a passionate software QA engineer who likes to dig deep and optimize systems.
+I am a passionate product engineer who likes to dig deep and optimize systems.
 
 ## 🛠 Skills
 Here is a list of systems and technologies I have worked with:
-- **Testing:** QA, Manual Testing, Test Automation, Postman API, Selenium, Grafana
-- **Coding:** Git, Python, SQL, Bash, Ansible, CICD
-- **Infrastructure:** Linux, Docker, Kubernetes
+- **Testing:** QA, Manual Testing, Test Automation
+- **Coding:** Git, Python, SQL, Bash
 - **Security:** Best practices
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memor24&color=blue)
